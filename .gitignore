@@ -135,7 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+12Factor/
 # Spyder project settings
 .spyderproject
 .spyproject
